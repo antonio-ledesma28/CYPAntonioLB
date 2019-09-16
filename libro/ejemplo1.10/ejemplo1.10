@@ -1,6 +1,0 @@
-BASE = int(input("Dame un valor:"))
-ALTURA = int(input("Dame un valor:"))
-PERIMETRO = 2(BASE*ALTURA)
-SUPERFICIE = BASE * ALTURA
-print(f"El perimetro de {2(BASE*ALTURA)} es {PERIMETRO}")
-print(f"La superficie de {BASE*ALTURA} es {SUPERFICIE}")
