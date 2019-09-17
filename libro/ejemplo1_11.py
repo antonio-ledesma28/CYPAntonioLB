@@ -1,0 +1,8 @@
+A=int(input("Escribe un valor entero para A: "))
+B=int(input("Escribe un valor entero para B: "))
+C=int(input("Escribe un valor entero para C: "))
+D=int(input("Escribe un valor entero para D: "))
+print(D)
+print(C)
+print(B)
+print(A)
