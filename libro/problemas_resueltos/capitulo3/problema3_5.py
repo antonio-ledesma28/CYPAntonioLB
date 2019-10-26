@@ -3,7 +3,7 @@ SUMPOS = 0
 CUEPOS = 0
 N = int(input("Escribe el número de datos a ingresasr: "))
 for I in range (1,N+1, 1):
-    NUM = (f"Escribe NUM")
+    NUM = int(input("Escribe NUM"))
     if NUM > 0:
         SUMPOS += NUM
         CUEPOS += 1

@@ -1,9 +1,10 @@
 MAY = -100000
 MEN = 100000
 N = int(input("Escribe N"))
-for NUM in range (1,N+1,1):
+for I in range (1,N+1,1):
+    NUM = int(input("Escribe NUM: "))
     if NUM > MAY:
         MAY = NUM
     if NUM < MEN :
         MEN = NUM
-print(MAY,MEN)
+print("MAY ES: ",MAY,"MEN ES: ",MEN,)

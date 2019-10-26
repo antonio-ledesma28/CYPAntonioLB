@@ -1,8 +1,8 @@
 NUM = int(input("Escribe un número: "))
 if NUM >0:
-    for NUM != 1 :
+    while (NUM != 1) :
         print(f"NUM es: {NUM}")
-        if (-1**NUM)>0:
+        if ((-1)**NUM)>0:
             NUM = NUM // 2
         else:
             NUM = NUM*3 + 1
