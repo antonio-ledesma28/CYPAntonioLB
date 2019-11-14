@@ -1,0 +1,15 @@
+marca ,  modelo , almacenamiento , velocidad , ram , color
+
+Huawei , P20, 64 , 2.3 , 6 , Azul
+
+Huawei , P20, 32 , 1.8 , 6 , Negro
+
+Huawei , P20, 32 , 1.8 , 6 , Blanco
+Samsung , J7 , 16 , 1.2 , 4 , Gris
+Samsung , J7 , 16 , 1.2 , 4 , Rojo
+Apple , IPhone XII , 1024 , 6.8 , 32 , Negro Espacial
+
+
+Apple , IPhone XI , 512 , 3.8 , 16 , Blanco
+
+Apple , IPhone X , 256 , 2.8 , 16 , Rosa
